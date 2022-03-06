@@ -1,0 +1,9 @@
+🔨 Add New staff
+📦 New Package
+👌 Improve performance
+🤖 Test new features
+🐛 Fix Bugs
+🚿 Clean Code
+⌚ Improve execution time
+👨🏻‍🏭 Make advance
+📖 Documentation
